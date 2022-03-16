@@ -1,0 +1,65 @@
+// Rosca Santigria - Denver Nightwings Leaderboard.
+
+
+
+// TOTAL TACKLES 
+// tackleCount = How many tackles that have been logged
+
+var totalTackles {
+    tackleCount = 180;
+    rank = 9;
+}
+
+
+// SOLO TACKLES 
+
+var soloTackles [
+    tackleCount = 129;
+    rank =  10;
+ 
+
+// ASSISTED TACKLES 
+
+var assistedTackles {
+    tackleCount = 55;
+    rank = 10; 
+}
+
+// TACKLE FOR A LOSS
+
+var tackleForLoss {
+    tackleCount = 7;
+    rank = 17;
+}
+
+
+// PASS DEFLECTIONS
+
+// deflectionCount = how maany pass deflectsion
+
+var passDeflections {
+    deflectionCount = 30;
+    rank = 7;
+}
+
+
+
+// INTERCEPTIONS 
+
+// interceptionCount: Tells how many iinterceptions
+
+var interceptions {
+    interceptionCount = 10;
+    rank = 6;
+
+}
+
+// DEFENSIVE TOUCHDOWNS 
+
+// defensiveTouchdownCount = How many defensive touchdowns did you make? 
+
+
+var defensiveTouchdowns {
+    defensiveTouchdownCount = 1;
+    rank = 4;
+}
